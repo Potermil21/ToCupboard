@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PyShop
 
 PyShop is an online Python Ecommerce website built with Django, SQLite and Bootstrap. A simple and lightweight ecommerce app easily deployable anywhere anytime with modules developed upon the inbuilt django admin.
@@ -35,3 +36,6 @@ If you discover a vulnerability or bugs within this project, please send an e-ma
 
 ## License
 The PyShop Project is free open-sourced project, yet to be licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# ToCupboard
+>>>>>>> 9e49cff4b3929b45f1f94b3b2393fbd6768be77a
